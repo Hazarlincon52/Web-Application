@@ -1,0 +1,262 @@
+body{
+    margin: 0;
+}
+form{
+    position: relative;
+    display: inline-block;
+    bottom:13px;
+    font-family: Myriad Pro, sans-serif;
+}
+.box1{
+
+    background-color: #5dbcd2;
+    color:#ffffff;
+    text-align: center;
+    font-size: 20px;
+    font-family: Myriad Pro, sans-serif;
+}
+
+.logo{
+    position:relative;
+    display: inline-block;
+    right: 250px;
+    border: none;
+    text-decoration: none;
+}
+
+.div1{
+    margin-left: 40px;
+    display: inline-block;
+    position:relative;
+    left:120px;
+    bottom: 13px;
+    margin-left:20px;
+    font-size: 20px; 
+    background-color: #5dbcd2; 
+    color: #ffffff; 
+    text-decoration-color: white;
+    border: none;
+    text-decoration: none;
+}
+.button1{
+    position:relative;
+    bottom:13px;
+    font-size: 16px; 
+    background-color: #5dbcd2; 
+    color: #ffffff; 
+    border: none;
+    text-decoration: none;
+   
+}
+.button2{
+    position:relative;
+    left:120px;
+    bottom:13px;
+    margin-left:20px;
+    font-size: 16px; 
+    background-color: #5dbcd2; 
+    color: #ffffff; 
+    text-decoration-color: white;
+    border: none;
+    text-decoration: none;
+}
+
+.link{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.login2{
+    position:relative;
+    left:140px;
+    margin-left:20px;
+    font-size: 16px; 
+    background-color: #5dbcd2; 
+    color: #ffffff; 
+    text-decoration-color: white;
+    border: none;
+    text-decoration: none;
+}
+
+.size1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.line{
+    background-color: #5dbcd2;
+    color:#ffffff;
+    text-align: center;
+    font-size: 40px;
+    font-family: Myriad Pro, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+.hr1{
+    border: 10px solid #1eccf3;
+    border-radius: 5px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 230px;
+    margin-left: 230px;
+}
+
+.hr2{
+    border: 10px solid #1eccf3;
+    border-radius: 5px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 530px;
+}
+
+.hr3{
+    border: 10px solid #1eccf3;
+    border-radius: 5px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+/*Bagian penjelasan 1*/
+.line1{
+    background-color: #5dbcd2;
+    border-radius: 50px;
+    color:#ffffff;
+    text-align: center;
+    font-family: Myriad Pro, sans-serif;
+    padding-top: 80px;
+    padding-bottom: 120px;
+    margin-right: 350px; 
+    margin-left: 50px;
+}
+
+.picture1{
+    position:relative;
+    float: left;
+    display: inline;
+    margin-left: 60px;
+}
+
+.p1{
+    width:900px;
+    position:relative;
+    left:120px;
+    bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align:justify;
+    color:#fff;
+    padding-top: 30px;
+    font-family: Myriad Pro, sans-serif;
+    font-size:25px;
+}
+
+/*Bagian penjelasan 2*/
+
+.line2{
+    background-color: #5dbcd2;
+    border-radius: 50px;
+    color:#ffffff;
+    text-align: center;
+    font-family: Myriad Pro, sans-serif;
+    padding-top: 80px;
+    padding-bottom: 240px;
+    margin-left: 380px; 
+    margin-right: 50px;
+}
+
+.picture2{
+    position:relative;
+    float: right;
+    bottom :215px;
+    margin-right: 60px;
+}
+
+.p2{
+    width:400px;
+    position:relative;
+    left:120px;
+    bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align:justify;
+    color:#fff;
+    padding-top: 30px;
+    font-family: Myriad Pro, sans-serif;
+    font-size:25px;
+}
+/*Bagian penjelasan 3*/
+
+.line3{
+    background-color: #5dbcd2;
+    border-radius: 50px;
+    color:#ffffff;
+    text-align: center;
+    font-family: Myriad Pro, sans-serif;
+    padding-top: 80px;
+    padding-bottom: 240px;
+    margin-right: 320px; 
+    margin-left: 50px;
+}
+
+.picture3{
+    position:relative;
+    float: left;
+    display: inline;
+    margin-left: 60px;
+}
+
+.p3{
+    width:900px;
+    position:relative;
+    left:120px;
+    bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align:justify;
+    color:#fff;
+    padding-top: 30px;
+    font-family: Myriad Pro, sans-serif;
+    font-size:25px;
+}
+/*Bagian penjelasan 4*/
+
+.line4{
+    background-color: #5dbcd2;
+    border-radius: 50px;
+    color:#ffffff;
+    text-align: center;
+    font-family: Myriad Pro, sans-serif;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-left: 380px; 
+    margin-right: 80px;
+}
+
+.picture4{
+    position:relative;
+    float: right;
+    bottom :360px;
+    margin-right: 60px;
+}
+
+.p4{
+    width:400px;
+    position:relative;
+    left:120px;
+    bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+    text-align:justify;
+    color:#fff;
+    padding-top: 30px;
+    font-family: Myriad Pro, sans-serif;
+    font-size:25px;
+}
